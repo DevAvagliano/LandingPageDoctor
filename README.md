@@ -1,5 +1,4 @@
-# LandingPageDoctor
-
+![Netlify Status](https://api.netlify.com/api/v1/badges/2de7f9d9-e091-4084-b84b-c5c33a95ef09/deploy-status)
 # Apresentação do projeto
 Landing Page responsivo e moderno desenvolvido em VSCode HTML, CSS e JS.
 
